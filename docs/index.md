@@ -9,7 +9,7 @@ The content presented here has been drawn from the lectures, live sessions, and 
 | :--- | :--- |
 | Week-1 | [Introduction and Functions](./notes/week-1.md) |
 
-| PYQs | Link |
+| Resources | Link |
 | :--- | :--- |
-| pyq| [PYQ LINK](./pyqs/main.md) |
-| Combined AQ+PA | [Link](./pyqs/combined.md) |
+| PYQs| [PYQ LINK](./pyqs/main.md) |
+| Combined AQ+PA | [Link](./pyqs/AQ_PA_combined (1).pdf) |
